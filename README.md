@@ -21,17 +21,7 @@ O projeto é modularizado em diferentes arquivos:
 - Incrementar e decrementar créditos usando operadores `++` e `--`
 
 ## Como Compilar e Executar
-Para compilar o projeto, utilize o seguinte comando no terminal:
-
-```bash
-g++ -o programa main.cpp Usuario.cpp Cadastro.cpp
-```
-
-Isso gerará um executável chamado `programa`. Para executá-lo, use:
-
-```bash
-./programa
-```
+No seu editor de códigos favorito, execute o main.cpp para rodar localmente
 
 ## Exemplo de Uso
 O programa exibe um menu interativo onde você pode escolher opções digitando o número correspondente:
@@ -49,10 +39,6 @@ O programa exibe um menu interativo onde você pode escolher opções digitando 
 0. Sair
 Escolha uma opção:
 ```
-
-## Requisitos
-- Compilador C++ (g++, clang++ ou MSVC)
-- Sistema operacional compatível (Linux, Windows ou macOS)
 
 ## Autor
 Thiago de Araújo Benevides
